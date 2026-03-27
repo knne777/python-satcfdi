@@ -95,7 +95,8 @@ setuptools.setup(
         'qrcode >= 7.3.0',
         'tabulate >= 0.9.0',
         'packaging >= 21.0',
-        'beautifulsoup4 > 4.11.0'
+        'beautifulsoup4 > 4.11.0',
+        'asn1crypto >= 1.5.0'
     ],
     # tests_require=test_deps,
     entry_points={
